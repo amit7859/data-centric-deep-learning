@@ -1,0 +1,49 @@
+The following is a list of 10 posts along with each post’s category. The category is one of the following: sports, science or politics. 
+
+The format of the examples below is: post, category. 
+
+
+Examples: 
+
+The athlete won a gold medal at the Olympics.,sports
+The legislation was passed after a long debate in the Senate.,politics
+The discovery of the Higgs boson at CERN marked a milestone in particle physics.,science
+The swimmer broke the world record in the 100-meter freestyle.,sports
+The bill received bipartisan support and was signed into law by the president.,politics
+The recent findings on black holes have revolutionized our understanding of space-time.,science
+The spacecraft successfully docked with the International Space Station.,science
+The gymnast captured the audience's hearts and took home the bronze medal.,sports
+"After months of negotiations, the climate accord was finally agreed upon by the majority of nations.",politics
+"Scientists successfully cloned a sheep, sparking ethical debates worldwide.",science
+
+Classify the following posts in one of categories listed above. For the output, use the same format as the examples above. 
+
+- Track and field althletes are breaking world records with the help of new nutritional science. 
+- 45 Congressmen participated in a relay race for the March of Dimes last Sunday. 
+- Chris Jones, Auburn’s star running back, is majoring in political science. 
+
+
+------
+
+Here are the classifications for the provided posts:
+
+Track and field athletes are breaking world records with the help of new nutritional science.,science
+45 Congressmen participated in a relay race for the March of Dimes last Sunday.,sports
+Chris Jones, Auburn’s star running back, is majoring in political science.,sports
+
+-------
+
+
+Based on the examples above, can you generate an example which you would have a hard time classifying? 
+
+
+
+-------
+
+
+Certainly! Here's an example that could be challenging to classify:
+
+"Recent advancements in technology have allowed athletes to monitor their performance in real-time during political rallies."
+
+This example combines elements related to both sports (athletes, performance monitoring) and politics (political rallies, advancements in technology), making it less clear-cut in terms of categorization.
+
